@@ -1,0 +1,2 @@
+# nowantedlevel
+nowantedlevel for fivem
